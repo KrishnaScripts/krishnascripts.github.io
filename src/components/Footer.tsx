@@ -30,7 +30,7 @@ export const Footer: React.FC = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              Krishna
+              Krishna Patel
             </motion.a>
             <p className="opacity-80 mb-6 max-w-md">
               A creative developer focused on building exceptional digital 
