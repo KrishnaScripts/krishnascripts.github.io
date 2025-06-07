@@ -77,7 +77,7 @@ export const Hero: React.FC = () => {
               variants={fadeInUp}
             >
               Krishna patel
-              <span className="block text-2xl md:text-4xl mt-2 gradient-text">Frontend Developer</span>
+              <span className="block text-2xl md:text-4xl mt-2 gradient-text">Frontend Web Developer</span>
             </motion.h1>
             
             <motion.p 
