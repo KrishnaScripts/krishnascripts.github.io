@@ -78,7 +78,7 @@ export const About: React.FC = () => {
             className="lg:w-1/2"
             variants={fadeInUp}
           >
-            <h2 className="text-3xl md:text-4xl font-bold mb-2">About Me</h2>, 
+            <h2 className="text-3xl md:text-4xl font-bold mb-2">About Me</h2> 
             <div className="w-20 h-1 bg-primary mb-6"></div>
             
             <p className="text-lg mb-6 opacity-80">
