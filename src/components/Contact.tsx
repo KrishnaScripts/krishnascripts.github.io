@@ -222,3 +222,4 @@ export const Contact: React.FC = () => {
     </section>
   );
 };
+export default Contact;
